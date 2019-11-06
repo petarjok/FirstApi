@@ -1,0 +1,9 @@
+D:\Other\GoodApi\FirstApi\Mediator\bin\Debug\netcoreapp2.1\Mediator.deps.json
+D:\Other\GoodApi\FirstApi\Mediator\bin\Debug\netcoreapp2.1\Mediator.dll
+D:\Other\GoodApi\FirstApi\Mediator\obj\Debug\netcoreapp2.1\Mediator.csproj.CoreCompileInputs.cache
+D:\Other\GoodApi\FirstApi\Mediator\obj\Debug\netcoreapp2.1\Mediator.AssemblyInfoInputs.cache
+D:\Other\GoodApi\FirstApi\Mediator\obj\Debug\netcoreapp2.1\Mediator.AssemblyInfo.cs
+D:\Other\GoodApi\FirstApi\Mediator\bin\Debug\netcoreapp2.1\Mediator.pdb
+D:\Other\GoodApi\FirstApi\Mediator\obj\Debug\netcoreapp2.1\Mediator.csprojAssemblyReference.cache
+D:\Other\GoodApi\FirstApi\Mediator\obj\Debug\netcoreapp2.1\Mediator.dll
+D:\Other\GoodApi\FirstApi\Mediator\obj\Debug\netcoreapp2.1\Mediator.pdb

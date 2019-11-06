@@ -1,0 +1,12 @@
+D:\Other\GoodApi\FirstApi\FirstApi.Application\bin\Debug\netcoreapp2.1\FirstApi.Application.deps.json
+D:\Other\GoodApi\FirstApi\FirstApi.Application\bin\Debug\netcoreapp2.1\FirstApi.Application.dll
+D:\Other\GoodApi\FirstApi\FirstApi.Application\bin\Debug\netcoreapp2.1\FirstApi.Application.pdb
+D:\Other\GoodApi\FirstApi\FirstApi.Application\bin\Debug\netcoreapp2.1\Mediator.dll
+D:\Other\GoodApi\FirstApi\FirstApi.Application\bin\Debug\netcoreapp2.1\Mediator.pdb
+D:\Other\GoodApi\FirstApi\FirstApi.Application\obj\Debug\netcoreapp2.1\FirstApi.Application.csprojAssemblyReference.cache
+D:\Other\GoodApi\FirstApi\FirstApi.Application\obj\Debug\netcoreapp2.1\FirstApi.Application.csproj.CoreCompileInputs.cache
+D:\Other\GoodApi\FirstApi\FirstApi.Application\obj\Debug\netcoreapp2.1\FirstApi.Application.AssemblyInfoInputs.cache
+D:\Other\GoodApi\FirstApi\FirstApi.Application\obj\Debug\netcoreapp2.1\FirstApi.Application.AssemblyInfo.cs
+D:\Other\GoodApi\FirstApi\FirstApi.Application\obj\Debug\netcoreapp2.1\FirstApi.Application.csproj.CopyComplete
+D:\Other\GoodApi\FirstApi\FirstApi.Application\obj\Debug\netcoreapp2.1\FirstApi.Application.dll
+D:\Other\GoodApi\FirstApi\FirstApi.Application\obj\Debug\netcoreapp2.1\FirstApi.Application.pdb
