@@ -1,0 +1,6 @@
+[submodule "SharedDataAccess"]
+	path = SharedDataAccess
+	url = https://nijvest-halza.visualstudio.com/_git/SharedDataAccess
+[submodule "GoodDb"]
+	path = GoodDb
+	url = https://github.com/petarjok/GoodDb
