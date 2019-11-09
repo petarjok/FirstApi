@@ -5,9 +5,11 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstApi", "FirstApi\FirstApi.csproj", "{6FBC60F9-5041-4AD1-AF12-82CC08BC0D9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{4511638C-BCD3-4714-95DE-981B12F6CB32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator", "Mediator\Mediator.csproj", "{4511638C-BCD3-4714-95DE-981B12F6CB32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApi.Application", "FirstApi.Application\FirstApi.Application.csproj", "{E1EFBB7B-0977-45AF-B255-2636A8DA479C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstApi.Application", "FirstApi.Application\FirstApi.Application.csproj", "{E1EFBB7B-0977-45AF-B255-2636A8DA479C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedDb", "GoodDb\SharedDb\SharedDb.csproj", "{43C3D6A0-7CCC-4A83-91D4-19FC24A22DDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E1EFBB7B-0977-45AF-B255-2636A8DA479C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1EFBB7B-0977-45AF-B255-2636A8DA479C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1EFBB7B-0977-45AF-B255-2636A8DA479C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43C3D6A0-7CCC-4A83-91D4-19FC24A22DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C3D6A0-7CCC-4A83-91D4-19FC24A22DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C3D6A0-7CCC-4A83-91D4-19FC24A22DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C3D6A0-7CCC-4A83-91D4-19FC24A22DDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
